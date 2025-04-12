@@ -41,9 +41,9 @@ Example selection
 
 ![Example selection](doc/media/screenshot-2.png)
 
+![Narrow screen](doc/media/screenshot-3.png)
+
 A demo video
-
-
 
 https://github.com/user-attachments/assets/0080f7f4-75c9-4900-8cf8-60c6931050ad
 
